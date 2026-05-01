@@ -1,7 +1,5 @@
-# ABC-Employee-Analysis
-Employee data analysis project using Python
-
 # ABC Company Employee Analysis
+Employee data analysis project using Python
 
 ## Project Overview
 This project analyzes amployee data from ABC company, consisting of 458 rows and 9 columns. The goal is to preprocess the dataset, perform analysis and generate insights usng visualizations.
